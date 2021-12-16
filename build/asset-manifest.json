@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/css/main.d56872f4.chunk.css",
+    "main.js": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/main.b4b56477.chunk.js",
+    "main.js.map": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/main.b4b56477.chunk.js.map",
+    "runtime-main.js": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/runtime-main.3251efe3.js",
+    "runtime-main.js.map": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/runtime-main.3251efe3.js.map",
+    "static/js/2.687719a7.chunk.js": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/2.687719a7.chunk.js",
+    "static/js/2.687719a7.chunk.js.map": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/2.687719a7.chunk.js.map",
+    "static/js/3.95498767.chunk.js": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/3.95498767.chunk.js",
+    "static/js/3.95498767.chunk.js.map": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/3.95498767.chunk.js.map",
+    "index.html": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/index.html",
+    "static/css/main.d56872f4.chunk.css.map": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/css/main.d56872f4.chunk.css.map",
+    "static/js/2.687719a7.chunk.js.LICENSE.txt": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/js/2.687719a7.chunk.js.LICENSE.txt",
+    "static/media/mystyle.css": "/edyst/swiggy-landing-page-reactjs-Radhejha.git/static/media/Lunch.ef35e3ea.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3251efe3.js",
+    "static/js/2.687719a7.chunk.js",
+    "static/css/main.d56872f4.chunk.css",
+    "static/js/main.b4b56477.chunk.js"
+  ]
+}
